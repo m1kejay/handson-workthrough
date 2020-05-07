@@ -1,6 +1,8 @@
 Machine Learning Notebooks
 ==========================
 
+Note to self: the output from the jupyter notebooks is likely going to be different from the book because of differences between scikit-learn/tensorflow versions. See the errata here for chapter 3: https://www.oreilly.com/catalog/errata.csp?isbn=0636920142874 for more information.
+
 This project aims at teaching you the fundamentals of Machine Learning in
 python. It contains the example code and solutions to the exercises in the second edition of my O'Reilly book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/):
 
